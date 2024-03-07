@@ -8,5 +8,3 @@ def devide(a, b):
   return a/b
 def multiply_new(a, b):
   return a*b
-def square(a):
-  return a*a
